@@ -62,5 +62,5 @@ Berikut adalah korelasi fitur audio terhadap popularitas lagu:
 - **README.md**: Dokumen ini, memberikan gambaran umum tentang proyek.
 - **music_analysis.ipynb**: Notebook Google colab yang berisi analisis lengkap, mulai dari pembersihan data hingga visualisasi dan interpretasi hasil.
 https://colab.research.google.com/drive/1gb9BKosdgKoKscnfM-4Lt5LmjB32Nx-o?usp=sharing
-## Penghargaan
+## Kesimpulan
 Proyek ini bertujuan untuk membantu pemangku kepentingan dalam industri musik memahami karakteristik lagu yang populer dan memberikan wawasan yang actionable.
