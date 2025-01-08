@@ -49,8 +49,16 @@ Berikut adalah korelasi fitur audio terhadap popularitas lagu:
 | Duration (ms/min)  | -0.144    |
 | Instrumentalness   | -0.150    |
 
-![image](https://github.com/user-attachments/assets/a8b6791d-a37f-4713-8e23-6802d8831e4e)
+![image](https://github.com/user-attachments/assets/b5279e3f-c2a1-4c94-8458-e4094c8e2db8)
 
+![image](https://github.com/user-attachments/assets/a8b6791d-a37f-4713-8e23-6802d8831e4e)
+Kesimpulan:
+
+1. Genre musik memiliki durasi rata-rata yang berbeda; genre X memiliki durasi tertinggi.
+   
+2. Popularitas lagu bervariasi antar genre, dengan genre Y menjadi yang paling populer.
+   
+3. Danceability dan energy menunjukkan korelasi yang positif di seluruh genre.
 
 ## Rekomendasi
 1. **Fokus pada Fitur Positif**:
