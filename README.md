@@ -1,5 +1,7 @@
 # Analisis Popularitas Lagu Berdasarkan Fitur Audio
-Nama Anggota Kelompok : 1. Nabila Az-Zahro Ika Putri R (202110370311393)
+Nama Anggota Kelompok : 
+
+                        1. Nabila Az-Zahro Ika Putri R (202110370311393)
 
                         2. Henda Cantika Sari          (202110370311399)
                         
