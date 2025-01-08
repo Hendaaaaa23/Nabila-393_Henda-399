@@ -1,6 +1,8 @@
 # Analisis Popularitas Lagu Berdasarkan Fitur Audio
 Nama Anggota Kelompok : 1. Nabila Az-Zahro Ika Putri R (202110370311393)
+
                         2. Henda Cantika Sari          (202110370311399)
+                        
 - Dataset yang digunakan : https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md
 ## Gambaran Proyek
 Proyek ini mengeksplorasi dataset musik untuk mengidentifikasi hubungan antara popularitas lagu dengan berbagai fitur audio. Dengan analisis ini, bertujuan untuk memahami fitur mana yang paling berpengaruh dalam meningkatkan popularitas lagu dan memberikan wawasan yang dapat membantu industri musik atau platform streaming.
@@ -46,6 +48,9 @@ Berikut adalah korelasi fitur audio terhadap popularitas lagu:
 | Energy             | -0.109    |
 | Duration (ms/min)  | -0.144    |
 | Instrumentalness   | -0.150    |
+
+![image](https://github.com/user-attachments/assets/a8b6791d-a37f-4713-8e23-6802d8831e4e)
+
 
 ## Rekomendasi
 1. **Fokus pada Fitur Positif**:
